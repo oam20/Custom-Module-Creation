@@ -1,4 +1,3 @@
-# Normal import
 import math_utils
 from string_utils import reverse_string, count_words
 import string_utils as su
